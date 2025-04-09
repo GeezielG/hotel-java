@@ -1,6 +1,6 @@
 # 🏨 Sistema de Reservas de Quartos (Java)
 
-Este é um pequeno projeto em Java que simula um sistema de reservas de quartos de hotel, com foco em manipulação de datas e tratamento de exceções.
+Este é um pequeno projeto em Java que simula um sistema de reservas de quartos de hotel, com foco em manipulação de datas e tratamento de exceções, essa versão é considerada a mais basica.
 
 ## 📋 Funcionalidades
 
