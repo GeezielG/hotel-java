@@ -12,12 +12,12 @@ Este é um pequeno projeto em Java que simula um sistema de reservas de quartos 
 
 ## 📁 Estrutura dos Arquivos
 
-- `Program.java`: Classe principal que interage com o usuário via terminal.
-- `Reservation.java`: Classe que representa uma reserva e contém toda a lógica de validação e cálculo da duração.
+- `Application.Program.java`: Classe principal que interage com o usuário via terminal.
+- `Model.entities.Reservation.java`: Classe que representa uma reserva e contém toda a lógica de validação e cálculo da duração.
 
 ## 🚀 Como Executar
 
 1. Compile os arquivos:
 
 ```bash
-javac Program.java Reservation.java
+java Application.Program.java Model.entities.Reservation.java
